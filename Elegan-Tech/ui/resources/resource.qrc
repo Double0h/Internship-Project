@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="G_code">
+    <file>G_code/1. Pump yıkama.txt</file>
+    <file>G_code/Başlangıç Home.txt</file>
+    <file>G_code/Giemsa Al Yıkama Git.txt</file>
+    <file>G_code/İğne Yıkama.txt</file>
+    <file>G_code/Kurutma Al May.G Koy.txt</file>
+    <file>G_code/Lam Alma 1.txt</file>
+    <file>G_code/May G. Al Yıkama Git.txt</file>
+    <file>G_code/May G. Çözeltisi  Al Yıkama Git.txt</file>
+    <file>G_code/Metanol Al Kurutma İçin Beklet.txt</file>
+    <file>G_code/Şale Alma Methanol Koy.txt</file>
+    <file>G_code/Yayma.txt</file>
+    <file>G_code/Yıkama Al Finish.txt</file>
+    <file>G_code/Yıkama Al Geimsa Gİt.txt</file>
+    <file>G_code/Yıkama Al May G. Çözelti Git.txt</file>
+  </qresource>
+</RCC>
